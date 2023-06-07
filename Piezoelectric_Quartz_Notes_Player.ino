@@ -42,6 +42,6 @@ void setup() {
 
 void loop() {
   Serial.println("now play");
-  play_song(song2);
+  play_song(song1);
   delay(silent_song_time);
 }
